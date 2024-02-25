@@ -1,7 +1,6 @@
 import java.util.*;
-import java.util.stream.Collectors;
 
-public class GeneralMain {
+public class RansomeNoteGenerator {
 
     public static void main(String[] args) {
 //        List<List<String>> res = groupAnagrams(new String[]{"eat", "tea", "tan", "ate", "nat", "bat"});

@@ -17,7 +17,6 @@ public class ExceptionMain {
         }
 
     }
-
     public double convertCurrency(float dollar){
         // do the conversion
         return 0.0f; // test return value.
